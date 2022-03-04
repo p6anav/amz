@@ -1,0 +1,15 @@
+
+body {
+    padding:0px;
+    margin:0px;
+}
+header {
+    background-color:#27580796; 
+    padding: 1rem;
+}
+header a{
+    color:white;
+    font-weight: 100;
+    text-decoration: none;
+    
+}
